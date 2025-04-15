@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkiger
-- 👀 I’m interested in ... Microbiology, molecular genetics, and RNA structural biology. I specifically am interested in long noncoding-RNA (lncRNA). I also like Oklahoma State athletics, Go Pokes! 
-- 🌱 I’m currently learning ... Python, and a little bit of R. 
+- 👀 I’m interested in ... Microbiology, and bioinformatics (specifically DNA & RNA sequencing). In my free time, I 
+- 🌱 I’m currently learning ... different bioinformatic analysis tools, and writing my own workflows. 
 - 💞️ I’m looking to collaborate on ... Potential transcriptomics workflows, as in analyzing transcriptomic data. 
 - 📫 How to reach me ... nicholas.m.kiger-1@ou.edu
 
