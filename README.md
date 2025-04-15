@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nkiger
 - 👀 I’m interested in ... Microbiology, and bioinformatics (specifically DNA & RNA sequencing). In my free time, I 
 - 🌱 I’m currently learning ... different bioinformatic analysis tools, and writing my own workflows. 
-- 💞️ I’m looking to collaborate on ... Potential transcriptomics workflows, as in analyzing transcriptomic data. 
 - 📫 How to reach me ... nicholas.m.kiger-1@ou.edu
 
 <!---
